@@ -18,7 +18,7 @@ Vrinda Store wanted a consolidated annual sales report to:
 4. Support data-driven business decisions for growth
 
 
-**Key Business Questions Answered**
+**📌 Key Business Questions Answered :**
 
 1. Compare sales vs orders in a single view
 
@@ -38,7 +38,7 @@ Vrinda Store wanted a consolidated annual sales report to:
 
 
 
-**Workflow**
+**📌 Workflow :**
 
 - Data Understanding & Cleaning
 
@@ -65,7 +65,7 @@ Vrinda Store wanted a consolidated annual sales report to:
 - Enabled quick filtering and visual analysis
   
 
-**Key Outcomes**
+**📌 Key Outcomes :**
 
 1. Identified peak sales months and top-performing states
 
@@ -74,6 +74,7 @@ Vrinda Store wanted a consolidated annual sales report to:
 3. Analyzed customer demographics and purchasing patterns
 
 4. Delivered a management-ready dashboard for decision-making
+
 
 
 **Screenshot:**
