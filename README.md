@@ -1,4 +1,4 @@
-**#📊 Vrinda Store Annual Sales Report 2022 – Advanced Excel Dashboard**
+#  📊Vrinda Store Annual Sales Report 2022 – Advanced Excel Dashboard
 
 **📌 Project Overview**
 
