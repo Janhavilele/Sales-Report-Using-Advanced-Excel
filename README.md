@@ -75,3 +75,8 @@ Vrinda Store wanted a consolidated annual sales report to:
 
 4. Delivered a management-ready dashboard for decision-making
 
+
+**Report:**
+
+![Dashboard Screenshot](https://github.com/Janhavilele/Ticket-Operations-Performance-Dashboard/blob/main/Dashboard.PNG)
+
